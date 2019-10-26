@@ -13,15 +13,20 @@ p{
 /* header */
 
 header{
+
   border: solid yellow;
   background-image: url(../images/IMG_5436.jpeg);
+
+  background-size:cover;
+  background-repeat: no-repeat;
   height: 100%;
   width: 100%;
   color: #82BECB;
   letter-spacing: 0.02em;
 
 }
-header, .container{
+header .container{
+
   border:solid green;
   text-align: center;
 
@@ -56,12 +61,96 @@ a, a:hover{
   color: white;
   font-family: 'Roboto';
   letter-spacing: 0.3em;
+}
+/* Actuellement */
+.logodev{
+  border: solid black;
+  padding-left: auto;
+  padding-right:auto;
+}
 
+
+.actuellement{
+  text-align: center;
+  border: solid red;
+  margin-top: auto;
+  color: #82becb;
+    font-size: 2em;
+    font-family: 'Roboto-bold';
 
 }
-/* bannière */
-
+h2{
+  border: solid purple;
+  text-align: center;
+}
+.recherche {
+  color:#969696;
+  font-size: 1.6875em;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
 /* competence */
+.titrecompetence{
+text-align: center;
+  border:solid pink;
+  color: #82becb;
+  font-size:1.5em;
+  weight:100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+figure{
+  width :100%;
+}
+div#logodev{
+  border: solid blue;
+  width: 10%;
+  max-width: 1000px;
+}
+div#logodev figure {
+  position: relative;
+  width: 500%;
+  margin: 0;
+  padding: 0;
+  font-size: 0;
+  text-align: left;
+}
+div#logodev figure img {
+  width: 20%;
+  height: auto;
+  float: left;
+}
+
+div#logodev {
+   width: 20%;
+   max-width: 1000px;
+   overflow: hidden
+ }
+
+ @keyframes slidy {
+  0% { left: 0%; }
+  20% { left: 0%; }
+  25% { left: -100%; }
+  45% { left: -100%; }
+  50% { left: -200%; }
+  70% { left: -200%; }
+  75% { left: -300%; }
+  95% { left: -300%; }
+  100% { left: -400%; }
+}
+div#logodev figure {
+  position: relative;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-size: 0;
+  left: 0;
+  text-align: left;
+  animation: 30s slidy infinite;
+}
+
 
 /* about */
 
