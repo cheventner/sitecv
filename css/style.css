@@ -1,12 +1,73 @@
 @charset "UTF-8";
 
-.menu{
-  border: solid blue;
+
+
+body, html{
+  padding: 0;
+  margin: 0;
+}
+
+p{
+    font-family: 'Titillium Web', sans-serif;
+}
+/* header */
+
+header{
+  border: solid yellow;
+  background-image: url(../images/IMG_5436.jpeg);
+  height: 100%;
+  width: 100%;
+  color: #82BECB;
+  letter-spacing: 0.02em;
+
+}
+header, .container{
+  border:solid green;
+  text-align: center;
+
+
+}
+header p{
+    color: white;
+}
+
+.logo{
+  width: 190px;
+  height: 115px;
+  background-image: url(../images/logo_petit.png);
+  padding-right: 0;
+  margin-left: auto;
+  margin-right: auto;
+
+  border: solid red;
 }
 
 
+/* boutons a propos, competence, projets, contact*/
+
+.menu{
+  border: solid blue;
+
+}
+
+a, a:hover{
+  text-decoration: none;
+  background-color: #82becb;
+  color: white;
+  font-family: 'Roboto';
+  letter-spacing: 0.3em;
 
 
+}
+/* bannière */
+
+/* competence */
+
+/* about */
+
+/* projets */
+
+/* contact */
 
 
 
