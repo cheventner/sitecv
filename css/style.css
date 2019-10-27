@@ -9,28 +9,42 @@ body, html{
 
 p{
     font-family: 'Titillium Web', sans-serif;
+    margin-top: 20px;
+    text-align: center;
 }
 /* header */
-
+/* défilement du texte */
+.defile{
+  animation-duration: 3s;
+  animation-name: slidein;
+  color: #82becb;
+}
+@keyframes slidein {
+  from{
+    margin-left: 100%;
+    width: 300%;
+  }
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+/* fin défilement de texte */
 header{
-
-  border: solid yellow;
   background-image: url(../images/IMG_5436.jpeg);
-
   background-size:cover;
   background-repeat: no-repeat;
-  height: 100%;
+  height: 600px;
   width: 100%;
   color: #82BECB;
   letter-spacing: 0.02em;
 
 }
-header .container{
-
-  border:solid green;
+#position1{
   text-align: center;
-
-
+  margin-top: 0px;
+  padding-bottom: 20px;
+  padding-top: 50px;
 }
 header p{
     color: white;
@@ -43,16 +57,13 @@ header p{
   padding-right: 0;
   margin-left: auto;
   margin-right: auto;
-
-  border: solid red;
 }
 
 
 /* boutons a propos, competence, projets, contact*/
 
 .menu{
-  border: solid blue;
-
+height: 200px;
 }
 
 a, a:hover{
@@ -61,27 +72,29 @@ a, a:hover{
   color: white;
   font-family: 'Roboto';
   letter-spacing: 0.3em;
+
 }
 /* Actuellement */
 .logodev{
-  border: solid black;
   padding-left: auto;
   padding-right:auto;
 }
 
-
+div.container{
+  margin-top: 50px;
+}
 .actuellement{
+  margin-top: 50px;
   text-align: center;
-  border: solid red;
-  margin-top: auto;
+  padding-top: 200x;
   color: #82becb;
     font-size: 2em;
     font-family: 'Roboto-bold';
 
 }
 h2{
-  border: solid purple;
   text-align: center;
+  color: #82becb;
 }
 .recherche {
   color:#969696;
@@ -92,8 +105,7 @@ h2{
 }
 /* competence */
 .titrecompetence{
-text-align: center;
-  border:solid pink;
+  text-align: center;
   color: #82becb;
   font-size:1.5em;
   weight:100%;
@@ -105,7 +117,6 @@ figure{
   width :100%;
 }
 div#logodev{
-  border: solid blue;
   width: 10%;
   max-width: 1000px;
 }
@@ -155,7 +166,9 @@ div#logodev figure {
 /* about */
 
 /* projets */
-
+.projets{
+ padding-left: 10px;
+}
 /* contact */
 
 
