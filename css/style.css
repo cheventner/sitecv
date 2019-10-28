@@ -17,7 +17,8 @@ p{
 .defile{
   animation-duration: 3s;
   animation-name: slidein;
-  color: #82becb;
+  color: #166b77;
+  font-weight: bold;
 }
 @keyframes slidein {
   from{
@@ -31,14 +32,20 @@ p{
 }
 /* fin défilement de texte */
 header{
-  background-image: url(../images/IMG_5436.jpeg);
+  background-position: center;
+  background-image: url(../images/filtre.jpg);
   background-size:cover;
   background-repeat: no-repeat;
   height: 600px;
   width: 100%;
-  color: #82BECB;
+  color: #166b77;
   letter-spacing: 0.02em;
 
+}
+
+.container-fluid header{
+  display: flex;
+  align-items: flex-end;
 }
 #position1{
   text-align: center;
@@ -47,9 +54,21 @@ header{
   padding-top: 50px;
 }
 header p{
-    color: white;
+    color: black;
+    font-weight: bold;
+    height: 100px;
 }
 
+.offset-4{
+  text-decoration: none;
+  background: none;
+
+}
+.offset-4:hover{
+  text-decoration: none;
+  background: none;
+  
+}
 .logo{
   width: 190px;
   height: 115px;
@@ -63,8 +82,10 @@ header p{
 /* boutons a propos, competence, projets, contact*/
 
 .menu{
-height: 200px;
+  height: 200px;
+  padding-top: 100px;
 }
+
 
 a, a:hover{
   text-decoration: none;
@@ -75,26 +96,29 @@ a, a:hover{
 
 }
 /* Actuellement */
-.logodev{
-  padding-left: auto;
-  padding-right:auto;
+#logodev{
+  padding-left: 15px;
+  padding-right:15px;
+  display: flex;
+  justify-content: space-between;
 }
 
 div.container{
   margin-top: 50px;
 }
 .actuellement{
-  margin-top: 50px;
   text-align: center;
-  padding-top: 200x;
-  color: #82becb;
-    font-size: 2em;
-    font-family: 'Roboto-bold';
+  padding-bottom: 50px;
+  color: #166b77;
+  font-size: 2em;
+  font-family: 'Roboto-bold';
+  border-bottom: solid grey 1px;
+
 
 }
-h2{
+h3{
   text-align: center;
-  color: #82becb;
+  color: #166b77;
 }
 .recherche {
   color:#969696;
@@ -105,66 +129,52 @@ h2{
 }
 /* competence */
 .titrecompetence{
+  padding-top: 10px;
+  font-weight: bold;
+  margin-bottom: auto;
   text-align: center;
-  color: #82becb;
-  font-size:1.5em;
-  weight:100%;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
+  color: #166b77;
+  font-size:2em;
+  height: 100px;
+
+ 
 }
 
-figure{
-  width :100%;
-}
-div#logodev{
-  width: 10%;
-  max-width: 1000px;
-}
-div#logodev figure {
-  position: relative;
-  width: 500%;
-  margin: 0;
-  padding: 0;
-  font-size: 0;
-  text-align: left;
-}
-div#logodev figure img {
-  width: 20%;
-  height: auto;
-  float: left;
+
+.logocss{
+  height: 150px;
+  width: 150px;
+  padding-left: 10px;
+  background-color: #166b77;
 }
 
-div#logodev {
-   width: 20%;
-   max-width: 1000px;
-   overflow: hidden
- }
-
- @keyframes slidy {
-  0% { left: 0%; }
-  20% { left: 0%; }
-  25% { left: -100%; }
-  45% { left: -100%; }
-  50% { left: -200%; }
-  70% { left: -200%; }
-  75% { left: -300%; }
-  95% { left: -300%; }
-  100% { left: -400%; }
+.logohtml{
+  height: 150px;
+  width: 150px;
+  padding-left: 10px;
+  background-color: #166b77;
 }
-div#logodev figure {
-  position: relative;
-  width: 100%;
-  margin: 0;
-  padding: 0;
-  font-size: 0;
-  left: 0;
-  text-align: left;
-  animation: 30s slidy infinite;
+
+.logojs{
+   height: 150px;
+  width: 150px;
+  padding-left: 10px;
+  background-color: #166b77;
+}
+.logoillustrator{
+   height: 150px;
+  width: 150px;
+  padding-left: 10px;
+  background-color: #166b77;
 }
 
 
 /* about */
-
+#borderabout{
+  border-top: solid grey 1px;
+  padding-top: 20px;
+}
 /* projets */
 .projets{
  padding-left: 10px;
@@ -181,17 +191,48 @@ div#logodev figure {
 
 
 /*footer*/
-@import url(http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css);
-body{margin-top:20px}
-.fa{font-size:24px;margin-right:5px}
-.row-first{margin-bottom:10px;margin-top:8px}
-.title-contact{margin-top:32px;display:none;}
-.contact-email { display:none; }
-a{transition:all .3s ease;-webkit-transition:all .3s ease;-moz-transition:all .3s ease;-o-transition:all .3s ease}
-.quick-contact{color:#fff;background-color:#000;background-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAiCAMAAADiW5DOAAAAaVBMVEUjIyMlJSUhISEaGhoZGRkcHBwREREHBwcMDAwODg4PDw8NDQ0LCwsICAgQEBAYGBgbGxsiIiIkJCQUFBQKCgoVFRUJCQkSEhITExMdHR0XFxcFBQUGBgYfHx8WFhYeHh4gICAEBAQmJiYtaDO6AAAC4UlEQVR42iVTi5arIAykl4cSMNAFeah1t/v/H3knXT3VyoQkMxmUUo8Hfv+0NtYtq6cQvI8bW53y8wsIbmAmy2VyCXElZscUatiNBpRtTlklqw0+EtL45r3rozjmtbK22Rid9TRqpozwiW/L1XMvY++uh3XIPiuZkkpG4lEPyTggS9nHcIFzxkpG9iOrel7Xspyr0eZ1e8TsexmO9m9j73pd57ks6ty2pbWz7drM3LkPhHRXtDV5LEuttZ2qtjVGkI1aJ3tIot7Z6W+T7/WKYFpXFSl48iFUhw5sD647Tzd4T2rN0wpMeSLX2YdaE6o9H0/R9CcbXVao5bhzUEIXilCsA0H5OyfQsVpbXwMxSg9SHiEDbH0teuojHeBrRPu+hi5SlK7wkst5D7WgmDnw0BAYarkBcOzKiWr7IJ+m1iK3aIdHmrdngfqtPrKhofHK4N7O7Trf55om5O88gPWhGFMcnbpshjm2Zavt2gYSvg5gaIcV0+hMvNusU2qtxRWaLsEk1NwJPiCnfpTY7OuF6em+Re+hFdUmiezr+fhV6qmmMSJIBqej1uAgqOPQ1iOLecSBVh1iwTtlaxNfyD1AmMg3B9QksdBEnoQNaMYmt0F6kYSYas9a1oHCq3hrKY6b2JVyQzYXKItQny4OeGy5zuusyaAauYGYUZiOqS3M8T6X81TbVdvW3sttjf52kqigoTExMwePAVxUrTFAkdrEY5k9PFZ8twafcQNRQCquwcNisXbpHFUcdRoZffSt+uA5eBXQqGNC0GHM/Pd4/H6p58/U6Y4tABnEij7zcrRuu3gLXBE6UYoatpcOTIkNZXCh7UeC/TA3vGAijqiwg0FXPIr8Ye+1zYhIH+n+TiTjIB2j/MXAq5TQg0nSuKig0zxIPHZ/YvZdTi9PUTq+r+u9vSN013NQH/dAreBQsXPPsszL1XAt8NjHKzR2VFAlgHt3xWI2d9wgGY5m88eE/QcLefcf4Go/mGyl89EAAAAASUVORK5CYII=');text-align:center}
-.contact a{-webkit-border-radius:2px;-moz-border-radius:2px;-o-border-radius:2px;border-radius:2px;display:block;background-color:rgba(255,255,255,0.25);font-size:20px;text-align:center;color:#fff;padding:7px}
-.contact a:hover{background-color:rgba(255,255,255,0.85);text-decoration:none}
-.contact a.skype:hover,.fa-skype{color:#00aff0}
-.contact a.google:hover,.fa-google-plus{color:#dd4b39}
-.contact a.linkedin:hover,.fa-linkedin{color:#0e76a8}
-.contact a.twitter:hover,.fa-twitter{color:#00acee}
+
+#footer{
+  border: solid black;
+  display: flex;
+  justify-content: space-around;
+  height:200px;
+  width: 100%;
+  padding-left: 12%;
+  padding-right: 12%;
+  background-color:#82becb;
+
+}
+
+#contactg{
+  display: flex;
+  border: solid red;
+  height: 100%;
+  width: 25%;
+  flex-wrap: wrap;
+
+
+
+}
+#contactd{
+  display: flex;
+  border: solid red;
+  height: 100%;
+  width: 25%;
+  flex-wrap: wrap;
+  align-items: center;
+
+}
+.lieu, .tel, .linkedin, .github, .mail{
+  border: solid green;
+  width: 100%;
+  height: 33%;
+ }
+.lieu{
+  background-size: 50px;
+}
+#maison, #smartphone, #linkedin{
+  margin-right: 20px;
+  height: 53px;
+  width: 53px;
+}
