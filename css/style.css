@@ -17,7 +17,7 @@ p{
 .defile{
   animation-duration: 3s;
   animation-name: slidein;
-  color: #166b77;
+  color: #178d9a;
   font-weight: bold;
 }
 @keyframes slidein {
@@ -38,7 +38,7 @@ header{
   background-repeat: no-repeat;
   height: 600px;
   width: 100%;
-  color: #166b77;
+  color: #178d9a;
   letter-spacing: 0.02em;
 
 }
@@ -67,7 +67,7 @@ header p{
 .offset-4:hover{
   text-decoration: none;
   background: none;
-  
+
 }
 .logo{
   width: 190px;
@@ -89,7 +89,7 @@ header p{
 
 a, a:hover{
   text-decoration: none;
-  background-color: #82becb;
+  background-color: #178d9a;
   color: white;
   font-family: 'Roboto';
   letter-spacing: 0.3em;
@@ -109,7 +109,7 @@ div.container{
 .actuellement{
   text-align: center;
   padding-bottom: 50px;
-  color: #166b77;
+  color: #178d9a;
   font-size: 2em;
   font-family: 'Roboto-bold';
   border-bottom: solid grey 1px;
@@ -118,7 +118,7 @@ div.container{
 }
 h3{
   text-align: center;
-  color: #166b77;
+  color: #178d9a;
 }
 .recherche {
   color:#969696;
@@ -134,11 +134,11 @@ h3{
   margin-bottom: auto;
   text-align: center;
   margin: auto;
-  color: #166b77;
+  color: #178d9a;
   font-size:2em;
   height: 100px;
 
- 
+
 }
 
 
@@ -146,27 +146,27 @@ h3{
   height: 150px;
   width: 150px;
   padding-left: 10px;
-  background-color: #166b77;
+  background-color: #178d9a;
 }
 
 .logohtml{
   height: 150px;
   width: 150px;
   padding-left: 10px;
-  background-color: #166b77;
+  background-color: #178d9a;
 }
 
 .logojs{
    height: 150px;
   width: 150px;
   padding-left: 10px;
-  background-color: #166b77;
+  background-color: #178d9a;
 }
 .logoillustrator{
    height: 150px;
   width: 150px;
   padding-left: 10px;
-  background-color: #166b77;
+  background-color: #178d9a;
 }
 
 
@@ -179,36 +179,27 @@ h3{
 .projets{
  padding-left: 10px;
 }
-/* contact */
 
 
-
-
-
-
-
-
-
-
-/*footer*/
+/*footer contact*/
 
 #footer{
-  border: solid black;
   display: flex;
   justify-content: space-around;
   height:200px;
   width: 100%;
   padding-left: 12%;
   padding-right: 12%;
-  background-color:#82becb;
+  background-color:#178d9a;
+  color: white;
+  margin-top: 15px;
 
 }
 
 #contactg{
   display: flex;
-  border: solid red;
   height: 100%;
-  width: 25%;
+  width: 30%;
   flex-wrap: wrap;
 
 
@@ -216,22 +207,20 @@ h3{
 }
 #contactd{
   display: flex;
-  border: solid red;
   height: 100%;
-  width: 25%;
+  width: 30%;
   flex-wrap: wrap;
   align-items: center;
 
 }
 .lieu, .tel, .linkedin, .github, .mail{
-  border: solid green;
   width: 100%;
   height: 33%;
  }
 .lieu{
   background-size: 50px;
 }
-#maison, #smartphone, #linkedin{
+#maison, #linkedin, #git, #mail, #smartphone, #email{
   margin-right: 20px;
   height: 53px;
   width: 53px;
