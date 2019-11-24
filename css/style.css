@@ -176,8 +176,13 @@ h3{
   padding-top: 20px;
 }
 /* projets */
-.projets{
- padding-left: 10px;
+#dessin, #projet, #photo{
+  border: solid blue;
+ display: flex;
+ height: 200px;
+ width: 100%;
+ margin-left: 100px;
+ margin-right: 100px;
 }
 
 
@@ -222,6 +227,7 @@ h3{
 }
 #maison, #linkedin, #git, #mail, #smartphone, #email{
   margin-right: 20px;
-  height: 53px;
-  width: 53px;
+  height: 60%;
+  width: 12%;
+  margin-top: 5%;
 }
