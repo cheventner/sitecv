@@ -1,0 +1,364 @@
+Rapport d'assemblage
+
+-----------------------------------------------------------------------------
+Document :
+Nom : cv valerie.pdf
+Mode : Couleurs CMJN
+Profil colorimétrique : U.S. Web Coated (SWOP) v2
+Unité : millimètres
+Dimensions : 210 mm x 297 mm
+Afficher les images en mode Tracés : INACTIF
+Mettre en évidence les polices substituées : INACTIF
+Mettre en évidence les glyphes substitués : INACTIF
+Conserver le caractère modifiable du texte
+Simuler le papier couleur : INACTIF
+
+-----------------------------------------------------------------------------
+Objets en tons directs :
+C=50 M=0 J=20 N=0 (CMJN)
+
+-----------------------------------------------------------------------------
+Polices manquantes :SANS
+
+-----------------------------------------------------------------------------
+Polices protégées non assemblées :SANS
+
+-----------------------------------------------------------------------------
+Polices :
+Myriad Pro (OTF)
+Chalkboard by Marta van Eck (TrueType)
+Cooper Black (OTF)
+
+-----------------------------------------------------------------------------
+Polices incorporées :
+SANS
+
+-----------------------------------------------------------------------------
+Liens manquants :
+SANS
+
+-----------------------------------------------------------------------------
+Images liées :
+
+/Utilisateurs/valeriecheventner/github/siteoptimise/img/smartphone.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 12K, 50 x 50 pixels
+Dimensions : 23,496 x 23,496 points 
+Résolution : 153,215 x 153,215 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/Mes documents/CV/cv derniere version/cv valerie_Dossier/smartphone.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 80K, 129 x 129 pixels
+Dimensions : 23,496 x 23,496 points 
+Résolution : 392,231 x 392,231 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/github/siteoptimise/img/linkedin.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 12K, 50 x 50 pixels
+Dimensions : 23,496 x 23,496 points 
+Résolution : 153,215 x 153,215 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/github/siteoptimise/img/email.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 12K, 50 x 50 pixels
+Dimensions : 23,496 x 23,496 points 
+Résolution : 153,215 x 153,215 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/github/siteoptimise/img/github.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 80K, 129 x 129 pixels
+Dimensions : 23,496 x 23,496 points 
+Résolution : 392,231 x 392,231 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/github/siteoptimise/img/logohtml.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 247K, 190 x 267 pixels
+Dimensions : 45,6 x 64,08 points 
+Résolution : 300 x 300 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/github/siteoptimise/img/logocss.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 235K, 190 x 254 pixels
+Dimensions : 39,932 x 53,382 points 
+Résolution : 342,585 x 342,585 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/github/siteoptimise/img/logojs.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 243K, 190 x 263 pixels
+Dimensions : 45,6 x 63,12 points 
+Résolution : 300 x 300 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/github/siteoptimise/img/photoshop.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 80K, 129 x 129 pixels
+Dimensions : 37,638 x 37,638 points 
+Résolution : 244,856 x 244,856 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/github/siteoptimise/img/animate.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 80K, 129 x 129 pixels
+Dimensions : 56,693 x 56,693 points 
+Résolution : 162,56 x 162,56 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/github/siteoptimise/img/illustrator.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 80K, 129 x 129 pixels
+Dimensions : 43,308 x 43,308 points 
+Résolution : 212,803 x 212,803 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/Téléchargements/experience.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 320K, 256 x 256 pixels
+Dimensions : 43,308 x 43,308 points 
+Résolution : 425,605 x 425,605 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/github/siteoptimise/img/aftereffects.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 80K, 129 x 129 pixels
+Dimensions : 51,812 x 51,812 points 
+Résolution : 177,875 x 177,875 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/Téléchargements/briefcase.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 320K, 256 x 256 pixels
+Dimensions : 32 x 32 points 
+Résolution : 575,994 x 575,994 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/Téléchargements/experiment.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 320K, 256 x 256 pixels
+Dimensions : 32 x 32 points 
+Résolution : 575,994 x 575,994 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/Téléchargements/floppy-disk.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 320K, 256 x 256 pixels
+Dimensions : 32 x 32 points 
+Résolution : 575,994 x 575,994 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/Téléchargements/woman.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 320K, 256 x 256 pixels
+Dimensions : 32 x 32 points 
+Résolution : 575,994 x 575,994 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/github/sitecv/img/logo.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 70269K, 4880 x 2949 pixels
+Dimensions : 94,034 x 56,825 points 
+Résolution : 3736,533 x 3736,533 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/github/sitecv/img/works/cv valerie_Dossier/woman.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 320K, 256 x 256 pixels
+Dimensions : 32 x 32 points 
+Résolution : 575,994 x 575,994 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/github/sitecv/img/works/cv valerie_Dossier/logo.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 70269K, 4880 x 2949 pixels
+Dimensions : 94,034 x 56,825 points 
+Résolution : 3736,533 x 3736,533 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/github/sitecv/img/works/cv valerie_Dossier/smartphone_3.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 80K, 129 x 129 pixels
+Dimensions : 23,496 x 23,496 points 
+Résolution : 392,231 x 392,231 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/github/sitecv/img/works/cv valerie_Dossier/smartphone.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 12K, 50 x 50 pixels
+Dimensions : 23,496 x 23,496 points 
+Résolution : 153,215 x 153,215 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/github/sitecv/img/works/cv valerie_Dossier/experience.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 320K, 256 x 256 pixels
+Dimensions : 43,308 x 43,308 points 
+Résolution : 425,605 x 425,605 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/github/sitecv/img/works/cv valerie_Dossier/experiment.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 320K, 256 x 256 pixels
+Dimensions : 32 x 32 points 
+Résolution : 575,994 x 575,994 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/github/sitecv/img/works/cv valerie_Dossier/floppy-disk.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 320K, 256 x 256 pixels
+Dimensions : 32 x 32 points 
+Résolution : 575,994 x 575,994 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/github/sitecv/img/works/cv valerie_Dossier/briefcase.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 320K, 256 x 256 pixels
+Dimensions : 32 x 32 points 
+Résolution : 575,994 x 575,994 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/github/sitecv/img/works/cv valerie_Dossier/logohtml.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 247K, 190 x 267 pixels
+Dimensions : 45,6 x 64,08 points 
+Résolution : 300 x 300 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/github/sitecv/img/works/cv valerie_Dossier/logocss.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 235K, 190 x 254 pixels
+Dimensions : 39,932 x 53,382 points 
+Résolution : 342,585 x 342,585 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/github/sitecv/img/works/cv valerie_Dossier/logojs.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 243K, 190 x 263 pixels
+Dimensions : 45,6 x 63,12 points 
+Résolution : 300 x 300 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/github/sitecv/img/works/cv valerie_Dossier/photoshop.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 80K, 129 x 129 pixels
+Dimensions : 37,638 x 37,638 points 
+Résolution : 244,856 x 244,856 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/github/sitecv/img/works/cv valerie_Dossier/animate.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 80K, 129 x 129 pixels
+Dimensions : 56,693 x 56,693 points 
+Résolution : 162,56 x 162,56 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/github/sitecv/img/works/cv valerie_Dossier/aftereffects.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 80K, 129 x 129 pixels
+Dimensions : 51,812 x 51,812 points 
+Résolution : 177,875 x 177,875 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/github/sitecv/img/works/cv valerie_Dossier/illustrator.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 80K, 129 x 129 pixels
+Dimensions : 43,308 x 43,308 points 
+Résolution : 212,803 x 212,803 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/github/sitecv/img/works/cv valerie_Dossier/email.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 12K, 50 x 50 pixels
+Dimensions : 23,496 x 23,496 points 
+Résolution : 153,215 x 153,215 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/github/sitecv/img/works/cv valerie_Dossier/github.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 80K, 129 x 129 pixels
+Dimensions : 23,496 x 23,496 points 
+Résolution : 392,231 x 392,231 pixels par pouce
+
+
+/Utilisateurs/valeriecheventner/github/sitecv/img/works/cv valerie_Dossier/linkedin.png
+Type : CMJN transparent
+Bits par pixel : 40
+Couches : 5
+Taille : 12K, 50 x 50 pixels
+Dimensions : 23,496 x 23,496 points 
+Résolution : 153,215 x 153,215 pixels par pouce
